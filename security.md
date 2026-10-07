@@ -125,4 +125,4 @@ O botão verde na seção Início rápido.
 
 ---
 
-*magnetic-granite-357 · Atualizado 2026-10-06 · Compartilhado sob a licença MIT*
+*magnetic-granite-357 · Atualizado 2026-10-07 · Compartilhado sob a licença MIT*
